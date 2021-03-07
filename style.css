@@ -1,0 +1,36 @@
+main {
+    text-align: center;
+    margin-top: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button {
+    border: none;
+    padding: 25px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+button + button {
+    margin-left: 10px;
+}
+
+#display-results {
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    margin-top: 20px;
+
+    padding: 7px;
+
+    border-radius: 2px;
+
+    background-color: rgb(235, 235, 235);
+}
+
+th, td {
+    padding-left: 10px;
+    padding-right: 10px;
+}
